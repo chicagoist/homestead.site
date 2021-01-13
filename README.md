@@ -1,2 +1,1 @@
-# homestead.site
-Laravel 7
+Первый сайт на Laravel 7
