@@ -30,6 +30,4 @@
 @else
     <p>Записей не найдено...</p>
 @endif
-
-
 @endsection

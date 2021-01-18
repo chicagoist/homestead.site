@@ -4,13 +4,13 @@
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
-	<title>Телефонный справочник</title>
+	<title>Телефонный справочник на Laravel 7</title>
 </head>
 <body>
 
 
 	<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-3">
-		<a class="navbar-brand" href="{{route('home')}}">Телефонный справочник</a>
+		<a class="navbar-brand" href="{{route('home')}}">Телефонный справочник на Laravel 7</a>
 	</nav>
 
 	<div class="container">
